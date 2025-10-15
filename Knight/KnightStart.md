@@ -1,10 +1,10 @@
 You're a knight, in charge of protecting the beautiful princess of the castle.
 
-![Princess](./img/princess.jpg)
+![Princess](./img/princesssm.jpg)
 
   You don steel armored helmet, breastplate, gauntlets and greaves :sunglasses:.  You have a sword that was bestowed upon you by your former knight when you were but a squire.  You are now the lead knight, in charge of protecting the castle :muscle:.
 
-![Knight](./img/knight.jpg)
+![Knight](./img/knightsm.jpg)
 
 Suddenly, you hear a scream coming from the throne room :scream:.
 
