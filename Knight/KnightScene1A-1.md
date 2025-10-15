@@ -8,4 +8,4 @@ You notice a trap and jump over it just in time.
 
 :dash: [Continue full sprint pursuit.]
 
-:mag_right::mag: [Slow down and look for traps.]
+:mag_right::mag: [Slow down and look for traps.](./KnightScene2A.md)

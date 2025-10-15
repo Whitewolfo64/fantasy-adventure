@@ -4,7 +4,7 @@
 
 As you are making progress towards the thief, you look back to see your men falling to various traps laid by the thief for his escape.
 
-:mag_right::mag: [Slow down and check for more traps.]
+:mag_right::mag: [Slow down and check for more traps.](./KnightScene2A.md)
 
 :dash: [Continue full sprint towards the thief.]
 
