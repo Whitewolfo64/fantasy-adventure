@@ -2,6 +2,6 @@
 
 You jump out the window to give chase but the theif had pulled the rope that he used for an escape.
 
-:european_castle: [Throw a grappling hook to the roof]
+:european_castle: [Throw a grappling hook to the roof](./KnightScene1A-1.md)
 
-:deciduous_tree::palm_tree::evergreen_tree: [Aim for the bushes on the ground]
+:deciduous_tree::palm_tree::evergreen_tree: [Aim for the bushes on the ground](./KnightScene1A-2.md)
