@@ -6,6 +6,6 @@ Someone has snuck in the castle windows and absconded with the princess :anguish
 
 You're heart drops :broken_heart:. "What do I do?" :confused:
 
-:cat: [Jump out the window and give chase.]
+:cat: [Jump out the window and give chase.](./KnightScene1A.md)
 
-:dash: [Head for the front gate of the castle to cut the thief off.]
+:dash: [Head for the front gate of the castle to cut the thief off.](./KnightScene1B)
