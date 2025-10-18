@@ -6,6 +6,6 @@ You kick the door down and run your sword through the "bouncer" but as soon as y
 
 GAME OVER
 
-:leftwards_arrow_with_hook: [Try again as the Knight?](KnightStart.md)
+:leftwards_arrow_with_hook: [Try again as the Knight?](./KnightStart.md)
 
 :rewind: [Main Menu](../_main-menu.md)

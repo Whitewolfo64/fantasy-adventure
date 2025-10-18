@@ -10,6 +10,6 @@ You die and all of your men are stuck in traps.  There is no one left to pursue 
 
 GAME OVER
 
-:leftwards_arrow_with_hook: [Try again as the Knight?](KnightStart.md)
+:leftwards_arrow_with_hook: [Try again as the Knight?](./KnightStart.md)
 
 :rewind: [Main Menu](../_main-menu.md)

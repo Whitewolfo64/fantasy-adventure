@@ -4,6 +4,6 @@ You refuse to join their guild.  The princess is disappointed and storms out of 
 
 ROUGH ENDING!!!
 
-:leftwards_arrow_with_hook: [Try again as the Knight?](KnightStart.md)
+:leftwards_arrow_with_hook: [Try again as the Knight?](./KnightStart.md)
 
 :rewind: [Main Menu](../_main-menu.md)
