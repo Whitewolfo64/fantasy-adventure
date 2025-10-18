@@ -8,4 +8,4 @@ You receive a letter from a carrier crow.
 
 You open the letter and it's instructions for your next job.  It asks you to sneak into a nearby castle and kidnap the princess of the castle.  You pet the crow and start heading toward the castle.
 
-[Continue](./ThiefScene1.md)
+:arrow_forward:[Continue](./ThiefScene1.md)

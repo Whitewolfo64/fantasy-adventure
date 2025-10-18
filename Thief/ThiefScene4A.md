@@ -8,4 +8,4 @@ After setting the traps.  You quickly then make your departure towards this buil
 
 With plenty of time, you head inside and meet the wizard and a fighter and you sit at the table with them and the princess.
 
-[Continue](./ThiefScene5.md)
+:arrow_forward:[Continue](./ThiefScene5.md)

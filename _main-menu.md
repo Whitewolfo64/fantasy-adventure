@@ -5,6 +5,8 @@ To start your story, choose your character:
 
 [KNIGHT](./Knight/KnightStart.md)
 
+![Knight](./Knight/img/knightsm.jpg)
+
 
 [WIZARD]
 
@@ -13,3 +15,5 @@ To start your story, choose your character:
 
 
 [THIEF](./Thief/ThiefStart.md)
+
+![Thief](./Thief/img/thiefsm.jpg)

@@ -8,4 +8,4 @@ You make it back to your men and start helping them get free.
 
 After everyone is free, you notice that they're all injured and can't continue with you.  You tell them to retreat to the castle while you checkout the hideout you had seen the thief retreat to.
 
-[Continue](./KnightScene3.md)
+:arrow_forward:[Continue](./KnightScene3.md)

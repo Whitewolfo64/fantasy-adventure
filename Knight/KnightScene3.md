@@ -2,6 +2,6 @@ You get to the house safely and look inside the window.  Inside, at a table, sit
 
 ![Sitting at Table](./img/sitting_at_tablesm.jpg) ![Fighter](./img/fightersm.jpg)
 
-[Kick down the door and slaughter everyone but the princess](./KnightScene3A.md)
+:bangbang:[Kick down the door and slaughter everyone but the princess](./KnightScene3A.md)
 
-[Knock on the door and inquire with the "bouncer" outside the door.](./KnightScene3B.md)
+:interrobang:[Knock on the door and inquire with the "bouncer" outside the door.](./KnightScene3B.md)

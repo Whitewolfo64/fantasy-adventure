@@ -10,4 +10,4 @@ You continue to look for traps, watching your step every way to the house.
 
 ![Trap_2](./img/trap_2sm.jpg)
 
-[Continue](./KnightScene3.md)
+:arrow_forward:[Continue](./KnightScene3.md)

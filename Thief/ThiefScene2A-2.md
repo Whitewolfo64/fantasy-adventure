@@ -6,4 +6,4 @@ You grab the princess and head for the nearest window.
 
 ![Window](./img/windowsm.jpg)
 
-[Continue](./ThiefScene3B.md)
+:arrow_forward:[Continue](./ThiefScene3B.md)
