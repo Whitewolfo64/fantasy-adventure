@@ -6,6 +6,6 @@ You notice a trap and jump over it just in time.
 
 ![Knight_Jump](./img/knight_jumpsm.jpg)
 
-:dash: [Continue full sprint pursuit.]
+:dash: [Continue full sprint pursuit.](./KnightScene1A-2A.md)
 
 :mag_right::mag: [Slow down and look for traps.](./KnightScene2A.md)
