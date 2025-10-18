@@ -12,6 +12,6 @@ Your men were never alerted, therefore no one was able to see the princess being
 
 GAME OVER
 
-:leftwards_arrow_with_hook: [Try again as the Knight?](KnightStart.md)
+:leftwards_arrow_with_hook: [Try again as the Knight?](./KnightStart.md)
 
 :rewind: [Main Menu](../_main-menu.md)

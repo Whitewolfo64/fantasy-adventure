@@ -12,6 +12,6 @@ You sit patiently, ever vigilante to protect the princess and the castle from an
 
 THE END!!!
 
-:leftwards_arrow_with_hook: [Try again as the Knight?](KnightStart.md)
+:leftwards_arrow_with_hook: [Try again as the Knight?](./KnightStart.md)
 
 :rewind: [Main Menu](../_main-menu.md)
