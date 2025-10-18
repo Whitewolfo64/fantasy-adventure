@@ -8,6 +8,6 @@ You get into the castle and head for the throne room, that's where you spot her.
 
 She's beautiful, you thought to yourself.  You make a sprint for her and hoist her over your shoulder.  She lets out a loud scream and gets the attention of one of the knights.
 
-[Go out the way you came.]
+[Go out the way you came.](./ThiefScene3B.md)
 
-[Attempt to fight your way through the front gate.]
+[Attempt to fight your way through the front gate.](./ThiefScene3A.md)
