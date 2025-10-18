@@ -12,4 +12,4 @@ To start your story, choose your character:
 [FIGHTER]
 
 
-[THIEF]
+[THIEF](./Thief/ThiefStart.md)
