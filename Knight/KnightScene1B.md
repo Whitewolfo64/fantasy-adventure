@@ -8,6 +8,6 @@ As you are making progress towards the thief, you look back to see your men fall
 
 :mag_right::mag: [Slow down and check for more traps.](./KnightScene2A.md)
 
-:dash: [Continue full sprint towards the thief.]
+:dash: [Continue full sprint towards the thief.](./KnightScene1A-2A.md)
 
-:ambulance: [Go back and help your men.]
+:ambulance: [Go back and help your men.](./KnightScene2B.md)
