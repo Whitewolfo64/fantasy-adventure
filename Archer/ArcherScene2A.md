@@ -2,7 +2,7 @@ You stop quickly to run into the throne room to alert the knights for backup. It
 
 You turn heel and start chasing after the thief. You no longer have sight of him, but you are able to notice the blood on the floor, since you pierced his shoulder.
 
-The blood trail ended in a segment of the inner city, and the knights decide to split up.
+The trail ended in a segment of the inner city, and the knights decide to split up.
 
 Should you
 

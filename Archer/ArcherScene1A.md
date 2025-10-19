@@ -4,4 +4,4 @@ It doesn't look like someone that should be allowed inside, but it's hard to see
 
 [Shoot and ask questions later](./ArcherScene1A-1.md)
 
-[Call out to the figure]
+[Make your way towards the figure](./ArcherScene1B.md)

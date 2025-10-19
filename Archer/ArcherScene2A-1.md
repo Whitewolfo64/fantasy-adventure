@@ -4,6 +4,6 @@ The thief and you both draw your daggers, since you are way too close to use you
 
 Do you try to end the thief here and now, or do you call for the knights and fight defensive
 
-[Fight offensively]
+[Fight offensively](./ArcherScene2A.md)
 
-[Fight defensively]
+[Fight defensively](./ArcherScene3A.md)

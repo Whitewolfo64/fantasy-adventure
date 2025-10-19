@@ -2,4 +2,6 @@ While you are searching the area thouroughly, you are able to find the thief wit
 
 You were rewarded with gold, and celebrated as the town hero for the following weeks
 
+YOU WON
+
 [main menu](../_main-menu.md)

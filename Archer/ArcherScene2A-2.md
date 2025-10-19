@@ -2,4 +2,6 @@ You decided to try to end the thief right then and there, forgetting that you we
 
 After a short altercation, the thief was able to land a fatal blow, and the last thing you see is the thief escaping over the castle walls while you slip away.
 
+YOU LOST
+
 [main menu](../_main-menu.md)
