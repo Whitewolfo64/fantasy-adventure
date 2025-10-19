@@ -19,5 +19,3 @@ To start your story, choose your character:
 ![Thief](./Thief/img/thiefsm.jpg)
 
 [Archer]
-
-[Monk]
