@@ -17,3 +17,7 @@ To start your story, choose your character:
 [THIEF](./Thief/ThiefStart.md)
 
 ![Thief](./Thief/img/thiefsm.jpg)
+
+[Archer]
+
+[Monk]

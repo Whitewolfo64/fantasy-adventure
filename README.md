@@ -1,4 +1,4 @@
-This is a choose your own adventure starring a Knight, a Wizard, a Fighter and a Thief.
+This is a choose your own adventure starring a Knight, a Wizard, a Fighter, a Thief, a Monk, and an Archer.
 
 Will their paths intertwine or will they each suffer a terrible fate? :skull:
 
