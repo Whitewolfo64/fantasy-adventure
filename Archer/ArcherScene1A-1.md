@@ -4,4 +4,4 @@ Should you
 
 [Alert the knights inside of the throne room](./ArcherScene2A.md)
 
-[Don't waste any time, and chase after the thief yourself] 
+[Don't waste any time, and chase after the thief yourself](./ArcherScene2A-3.md)
