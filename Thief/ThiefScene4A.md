@@ -1,6 +1,6 @@
 You stop to take some time to lay some traps.
 
-![Traps1](../knight/img/trap_1sm.jpg)![Traps2](../Knight/img/trap_2sm.jpg)
+![Traps1](../Knight/img/trap_1sm.jpg)![Traps2](../Knight/img/trap_2sm.jpg)
 
 After setting the traps.  You quickly then make your departure towards this building beyond the castle.
 
