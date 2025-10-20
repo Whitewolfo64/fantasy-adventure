@@ -8,4 +8,4 @@ Should you
 
 [Hastily search the area in an attempt to find the thief before he can leave](./ArcherScene2A-1.md)
 
-[Thoroughly search the area](./ArcerScene3A.md)
+[Thoroughly search the area](./ArcherScene3A.md)
