@@ -6,5 +6,3 @@ You hear the sound of footsteps on the cobble heading towards the throne room. W
 
 
 [Go to the throne room to alert the possibility of an intruder.](./ArcherScene1A.md)
-
-[Don't overreact and watch your post](./)
