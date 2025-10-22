@@ -11,7 +11,7 @@ To start your story, choose your character:
 [WIZARD]
 
 
-[FIGHTER]
+[FIGHTER](./Fighter/_Fighter_StartHere.md)
 
 
 [THIEF](./Thief/ThiefStart.md)
