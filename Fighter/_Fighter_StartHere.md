@@ -10,4 +10,4 @@ Doing what you know best, you do a couple side jobs that puts your fist to good 
 
 and after a long day of hard work you would relax at a local pub.
 
-[A commotion puts your drinking session on hold](./FighterScene1)
+[A commotion puts your drinking session on hold](./FighterScene1.md)
