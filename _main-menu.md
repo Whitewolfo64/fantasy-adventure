@@ -8,12 +8,14 @@ To start your story, choose your character:
 ![Knight](./Knight/img/knightsm.jpg)
 
 
-[WIZARD]
+[WIZARD](./Wizard/_Wizard_StartHere.md)
 
 
-[FIGHTER]
+[FIGHTER](./Fighter/_Fighter_StartHere.md)
 
 
 [THIEF](./Thief/ThiefStart.md)
 
 ![Thief](./Thief/img/thiefsm.jpg)
+
+[Archer](./Archer/ArcherStart.md)
